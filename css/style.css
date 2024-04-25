@@ -2141,7 +2141,7 @@ button {
 }
 
 .footer-top-section {
-  background: url("../assets/images/homepage-one/footer-top-bg.webp") no-repeat center/cover;
+  background: url("../assets/images/homepage-one/footer.jpg") no-repeat center/cover;
   height: 46rem;
   display: flex;
   flex-direction: row;
@@ -2287,7 +2287,7 @@ button {
 .social-items {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: end;
   justify-content: space-between;
   gap: 0px;
 }
